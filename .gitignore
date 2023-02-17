@@ -4,3 +4,5 @@
 *.ogg
 
 .ipynb_checkpoints
+
+nbstripout.sh
